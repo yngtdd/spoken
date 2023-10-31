@@ -1,4 +1,4 @@
-from throughput.greet import hello
+from spoken.hello import hello
 
 
 def main():
