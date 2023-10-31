@@ -1,5 +1,8 @@
 # Spoken
 
+[![Build](https://github.com/yngtdd/spoken/actions/workflows/build.yml/badge.svg)](https://github.com/yngtdd/spoken/actions/workflows/build.yml)
+[![docs](https://github.com/yngtdd/spoken/actions/workflows/docs.yml/badge.svg)](https://github.com/yngtdd/spoken/actions/workflows/docs.yml)
+
 ---
 
 ## Installation
